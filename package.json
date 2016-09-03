@@ -1,0 +1,31 @@
+{
+  "name": "animequote",
+  "version": "1.0.0",
+  "description": "Anime Quotes Generator +cli",
+  "license": "MIT",
+  "repository": "austinhuang0131/node-animequote",
+  "bin": {
+    "latest-version": "cli.js"
+  },
+  "author": {
+    "name": "Austin Huang",
+    "email": "austinhuang0131@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "anime",
+    "quote"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
