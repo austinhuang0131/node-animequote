@@ -6,14 +6,12 @@ var animequote = [
     "quotecharacter": "- Emiya Shirou,",
     "quoteanime": " Fate/stay night"
   },
-  
   {
     "quotenumber": 2,
     "quotesentence": "The fake is of far greater value. In its deliberate attempt to be real, it's more real than the real thing.",
     "quotecharacter": "- Kaiki Deishū,",
     "quoteanime": " Nisemonogatari"
   },
-  
   {
     "quotenumber": 3,
     "quotesentence": "Mankind’s greatest fear is Mankind itself.",
@@ -26,112 +24,96 @@ var animequote = [
     "quotecharacter": "- Natalia Kaminski,",
     "quoteanime": " Fate/Zero"
   },
-
   {
     "quotenumber": 5,
     "quotesentence": "It's a mistake to choose your path based upon the sins that you carry. We don't choose our path based on the sins that we carry, but we must bear our sins on the path we choose. ",
     "quotecharacter": "- Aozaki Touko,",
     "quoteanime": " Kara no Kyoukai"
   },
-
   {
     "quotenumber": 6,
     "quotesentence": "A lie that can't be disproven is no different from the truth.",
     "quotecharacter": "- Kraft Lawrence,",
     "quoteanime": " Ookami to Koushinryou"
   },
-
   {
     "quotenumber": 7,
     "quotesentence": "I can only say that the human curiosity is something completely irrational.",
     "quotecharacter": "- Kyubee,",
     "quoteanime": " Mahou Shoujo Madoka★Magica"
   },
-
   {
     "quotenumber": 8,
     "quotesentence": "The day before yesterday, I saw a rabbit. Yesterday, it was a deer. And today, It’s you.",
     "quotecharacter": "- Ichinose Kotomi,",
     "quoteanime": " Clannad"
   },
-
   {
     "quotenumber": 9,
     "quotesentence": "Only God knows who shall be the victor. I can only do the best I can.",
     "quotecharacter": "- Takane Shijou,",
     "quoteanime": " The iDOLM@STER"
   },
-
   {
     "quotenumber": 10,
     "quotesentence": "Those aren’t tears of sadness. They’re tears of happiness, right? Let us make haste, lest the wind ceases.",
     "quotecharacter": "- Hidenori Tabata,",
     "quoteanime": " Danshi Koukousei no Nichijou"
   },
-
   {
     "quotenumber": 11,
     "quotesentence": "Poi!",
     "quotecharacter": "- Yuudachi,",
     "quoteanime": " Kantai Collection"
   },
-
   {
     "quotenumber": 12,
     "quotesentence": "If you forced someone to do something they didn’t want to do, they’d just end up hating life.",
     "quotecharacter": "- Chihiro Sengoku,",
     "quoteanime": " Sakurasou no Pet na Kanojo"
   },
-
   {
     "quotenumber": 13,
     "quotesentence": "There are things that cannot be taken back. But the world will keep on spinning whether you laugh or you cry. High school life will eventually end too.",
     "quotecharacter": "- Hachiman Hikigaya,",
     "quoteanime": " Yahari Ore no Seishun Love Comedy wa Machigatteiru."
   },
-
   {
     "quotenumber": 14,
     "quotesentence": "There's something wrong with people who seek reality in fiction.",
     "quotecharacter": "- Kyon,",
     "quoteanime": " Suzumiya Haruhi no Yuuutsu"
   },
-
   {
     "quotenumber": 15,
     "quotesentence": "Don't be distracted by the what-if's, should-have's, and if-only's. The one thing you choose for yourself - that is the truth of your universe.",
     "quotecharacter": "- Kamina,",
     "quoteanime": " Tengen Toppa Gurren Lagann"
   },
-
   {
     "quotenumber": 16,
     "quotesentence": "People tend to show off their act of kindness. It is not an act of good will, it is a demand because they are expecting a word of grace as a reward.",
     "quotecharacter": "- Itoshiki Nozomu,",
     "quoteanime": " Sayonara Zetsubou Sensei"
   },
-  
   {
     "quotenumber": 17,
     "quotesentence": "Love always happens without warning. At that time, the gears of fate will start spinning. Just like the hands of a clock, two people’s hearts will separate and meet again. Eventually, they reunite.",
     "quotecharacter": "- Konjiki No Yami,",
     "quoteanime": " To LOVE-Ru Darkness"
   },
-  
   {
     "quotenumber": 18,
     "quotesentence": "There are only two times when a man can cry in public: when he loses his wallet and when his mother dies. And even if you cry in private, there's a severe restriction. Shed tears for others. The only thing you should be shedding for yourself is sweat. Remember that.",
     "quotecharacter": "- Yuuji Kazami,",
     "quoteanime": " Grisaia no Kajitsu"
   },
-
   {
     "quotenumber": 19,
     "quotesentence": "The real fun is in constantly pushing beyond your limits. So if you're thinking of everything as a game, you won't be able to fully experience it.",
     "quotecharacter": "- Kagami Junichirou,",
     "quoteanime": " Denpa Kyoushi"
   },
-  
   {
     "quotenumber": 20,
     "quotesentence": "Those with talent who aren't aware of themselves cause pain for those who have none.",
@@ -467,28 +449,24 @@ var animequote = [
     "quotecharacter": "- Nobuchika Ginoza,",
     "quoteanime": " Psycho-Pass"
   },
-  
   {
     "quotenumber": 68,
     "quotesentence": "It's alright to feel sad. When you're sad, you should experience that sorrow fully. It's not too late to move on after that.",
     "quotecharacter": "- Urutori,",
     "quoteanime": " Utawarerumono"
- },
- 
+  },
   {
     "quotenumber": 69,
     "quotesentence": "Because my time is limited, I don't have any time to waste hesitating. That is why I can walk straight ahead. That is why I never stop.",
     "quotecharacter": "- Rosette Christopher,",
     "quoteanime": " Chrono Crusade"
   },
-  
   {
     "quotenumber": 70,
     "quotesentence": "If a girl chases after you, it's likely a trap.",
     "quotecharacter": "- Keima Katsuragi,",
     "quoteanime": " Kami nomi zo Shiru Sekai"
   },
- 
   {
     "quotenumber": 71,
     "quotesentence": "People aren't as complex as you think they are. They're simple, and they get sad or angry over simple things. That's how they are. They're quickly affected by the littlest things, and live without knowing where they're going to fall down. That's who people are!",
@@ -525,7 +503,7 @@ var animequote = [
     "quotesentence": "Love is nothing more than a cultural idea attached to our pre-existing genetic needs to reproduce and gain recognition from our peers.",
     "quotecharacter": "- Akane Senri,",
     "quoteanime": " Rewrite"
-  },,
+  },
   {
     "quotenumber": 77,
     "quotesentence": "You never appreciate the irreplaceable things in life until they're gone. Like summer vacation... or brothers.",
