@@ -1,9 +1,9 @@
 'use strict';
 var assert = require('assert');
-var yodaSaid = require('./index');
+var animequote = require('./index');
 
 
 it('should get return at least one quote', function (cb) {
-		assert(yodaSaid);
+		assert(animequote);
 		cb();
 });
