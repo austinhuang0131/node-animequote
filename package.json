@@ -15,7 +15,9 @@
     "node": ">=0.8.0"
   },
   "scripts": {
-    "test": "mocha"
+    "install": "echo Thank you for using animequote by austinhuang. https://www.npmjs.com/package/animequote https://github.com/austinhuang0131/node-animequote",
+    "test": "echo Test? Go to https://tonicdev.com/npm/animequote",
+    "uninstall": "echo We're sad to see you go. If you're having issues, please report it at https://github.com/austinhuang0131/node-animequote/issues."
   },
   "files": [
     "index.js",
@@ -28,8 +30,5 @@
     "random",
     "stuff"
   ],
-  "devDependencies": {
-    "mocha": "*"
-  },
   "tonicExample": "var aq = require('animequote');\n\naq();\n// Shows the js object of the callback"
 }
