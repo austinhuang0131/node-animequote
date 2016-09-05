@@ -1,6 +1,8 @@
 # node-animequote
 ![npm downloads](https://img.shields.io/npm/dm/animequote.svg?maxAge=2592000) ![npm version](https://img.shields.io/npm/v/animequote.svg?maxAge=2592000)
 
+[![NPM](https://nodei.co/npm/animequote.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/animequote/)
+
 Anime Quote Generator. In node.js. Made from [node-yoda-said](https://github.com/hemanth/node-yoda-said). Resources from [anime-quote-generator](https://github.com/jiashengc/anime-quote-generator).
 
 Before installing, you want to make sure it works, eh? [This Tonic notebook](https://tonicdev.com/austinhuang0131/57ca2dc029fbd114001d32df) will ensure it works.
