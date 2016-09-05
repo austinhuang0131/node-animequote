@@ -31,5 +31,5 @@
   "devDependencies": {
     "mocha": "*"
   },
-  "tonicExample": "var aq = require('animequote');\n\naq();"
+  "tonicExample": "var aq = require('animequote');\nconsole.log("\"" + aq().quotesentence + "\" --- " + aq().quotecharacter + " from " + aq().quoteanime);"
 }
