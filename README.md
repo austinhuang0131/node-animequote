@@ -13,16 +13,23 @@ $ npm install --save animequote
 ## How to use it?
 ```js
 var aq = require('animequote');
-console.log(aq().quotesentence + " --" + aq().quotecharacter + " from " + aq().quoteanime);
+console.log("\"" + aq().quotesentence + "\" --- " + aq().quotecharacter + " from " + aq().quoteanime);
 ```
-
+### Callback example
+```json
+{
+    "quotenumber": 1, // 1~80
+    "quotesentence": "<Random>",
+    "quotecharacter": "<Random>",
+    "quoteanime": "<Random>"
+}
+```
 ### In console?
 **UNTESTED**, so if you found a problem here, submit an issue in the [GitHub repo](https://github.com/austinhuang0131/node-animequote/issues).
 ```shell
 $ npm install --global animequote
 $ animequote
 ```
-
 ## Credit
 * [node-yoda-said](https://github.com/hemanth/node-yoda-said), Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com).
 * [anime-quote-generator](https://github.com/jiashengc/anime-quote-generator), Copyright (c) 2015 Chong Jia Sheng.
