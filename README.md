@@ -1,3 +1,6 @@
+# Reminder
+If you are using 1.0.3 or lower, please update the package.
+
 # node-animequote
 ![npm downloads](https://img.shields.io/npm/dm/animequote.svg?maxAge=2592000) ![npm version](https://img.shields.io/npm/v/animequote.svg?maxAge=2592000) ![License](https://img.shields.io/github/license/austinhuang0131/node-animequote.svg?maxAge=2592000)
 
