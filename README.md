@@ -5,10 +5,7 @@
 
 Anime Quote Generator. In node.js. Made from [node-yoda-said](https://github.com/hemanth/node-yoda-said). Resources from [anime-quote-generator](https://github.com/jiashengc/anime-quote-generator).
 
-Before installing, you want to make sure it works, eh? Click [Test animequote in your browser.](https://tonicdev.com/npm/animequote) at the right side of the npmjs page, then click `Run`. It will run the script written in "How to use it?" chapter and give you a nice, neaty output.
-```
-$ npm install --save animequote
-```
+Before installing, you want to make sure it works, eh? Click [Test animequote in your browser.](https://tonicdev.com/npm/animequote) at the right side of the npmjs page, then click `Run`. It will run a script and gives you a nice js object callback.
 
 ## How to use it?
 ```js
