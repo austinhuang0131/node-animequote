@@ -1,6 +1,6 @@
 {
   "name": "animequote",
-  "version": "1.0.2",
+  "version": "final",
   "description": "Anime Quotes Generator (with cli)",
   "license": "MIT",
   "repository": "austinhuang0131/node-animequote",
@@ -23,9 +23,13 @@
   ],
   "keywords": [
     "anime",
-    "quote"
+    "quote",
+    "generator",
+    "random",
+    "stuff"
   ],
   "devDependencies": {
     "mocha": "*"
-  }
+  },
+  "tonicExample": "var aq = require('animequote');\n\naq();"
 }
