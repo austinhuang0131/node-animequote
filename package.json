@@ -1,6 +1,6 @@
 {
   "name": "animequote",
-  "version": "final",
+  "version": "1.1.0",
   "description": "Anime Quotes Generator (with cli)",
   "license": "MIT",
   "repository": "austinhuang0131/node-animequote",
