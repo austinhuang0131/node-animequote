@@ -11,16 +11,25 @@ Before installing, you want to make sure it works, eh? Click [Test animequote in
 
 ## How to use it?
 ```js
-var aq = require('animequote');
+var aq = require('animequote@1.1.1'); // @1.1.1 is mandatory, but recommended if you have ever installed older version of the package.
 console.log("\"" + aq().quotesentence + "\" --- " + aq().quotecharacter + " from " + aq().quoteanime);
 ```
-### Callback example
+### Output example
 ```json
 {
     "quotenumber": 1,
     "quotesentence": "<Random>",
     "quotecharacter": "<Random>",
     "quoteanime": "<Random>"
+}
+```
+For 1.0.x, it has a different output, which includes some pre-inserted characters (1 slash, 1 comma and 2 spaces). That’s why I suggest some of you to add `@1.1.1` in the script and update the package.
+```json
+{
+    "quotenumber": 1,
+    "quotesentence": "<Random>",
+    "quotecharacter": "- <Random>,",
+    "quoteanime": " <Random>"
 }
 ```
 ### In console?
