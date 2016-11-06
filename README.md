@@ -1,7 +1,7 @@
 **!!!** If you are using 1.0.3 or lower, please update the package. **!!!**
 
 # node-animequote
-![npm downloads](https://img.shields.io/npm/dm/animequote.svg?maxAge=2592000) ![npm version](https://img.shields.io/npm/v/animequote.svg?maxAge=2592000) ![License](https://img.shields.io/github/license/austinhuang0131/node-animequote.svg?maxAge=2592000)
+![npm downloads](https://img.shields.io/npm/dm/animequote.svg?maxAge=2592000) ![npm version](https://img.shields.io/npm/v/animequote.svg?maxAge=2592000) ![License](https://img.shields.io/github/license/austinhuang0131/node-animequote.svg?maxAge=2592000) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/03b453afdc8b4aa4ab19a6eb544e5020)](https://www.codacy.com/app/austinhuang0131/node-animequote?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=austinhuang0131/node-animequote&amp;utm_campaign=Badge_Grade)
 
 [![NPM](https://nodei.co/npm/animequote.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/animequote/)
 
