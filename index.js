@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 var animequote = [
   {
     "quotenumber": 1,
@@ -480,8 +480,8 @@ var animequote = [
     "quotecharacter": "Mary Macbeth",
     "quoteanime": " Kekkai Sensen"
   }
-]
+];
 
 module.exports = function() {
   return animequote[Math.floor(Math.random() * animequote.length)];
-}
+};
