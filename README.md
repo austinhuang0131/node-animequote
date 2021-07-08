@@ -39,12 +39,6 @@ $ npm install --global animequote
 $ animequote
 ```
 ## Credit
-* [node-yoda-said](https://github.com/hemanth/node-yoda-said), Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com).
+* [node-yoda-said](https://github.com/hemanth/node-yoda-said), Copyright (c) [Hemanth.HM](http://h3manth.com).
 * [anime-quote-generator](https://github.com/jiashengc/anime-quote-generator), Copyright (c) 2015 Chong Jia Sheng.
 * Both are in MIT license.
-
-## Contribute?
-If you want to add a new quote, do it in the [original repo](https://github.com/jiashengc/anime-quote-generator) and remind me by creating an issue or DM me on Discord (austinhuang#1076).
-
-## Contact
-[![Discord](https://discordapp.com/api/guilds/188752295108935680/widget.png?style=banner2)](http://discord.me/0131)
